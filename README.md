@@ -17,7 +17,7 @@ Guess The Number is a very easy game which is made using python code.
          Generate a random number using Python's random module.
          Define the range of the random number, e.g., between 1 and 100.
 
-Step 2: User Input:   
+Step 2: User Input:  
          Use Python's input function to get a number input from the user.
           Prompt the user to enter a number within the defined range.
 
@@ -33,7 +33,7 @@ Step 5: Repeat Gameplay:
          Ask the user if they want to play again.
           If the user responds affirmatively, restart the game.
 
-Step 6: Game Over
+Step 6: Game Over:
           When the user chooses to stop playing, end the game and thank the user.
 
    
