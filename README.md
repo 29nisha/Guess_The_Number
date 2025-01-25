@@ -39,6 +39,22 @@ Step 6: Game Over:
    ![image](https://github.com/user-attachments/assets/3f80a324-56ea-4c78-84f5-2ed4f46a6afd)
 
 
+ # Conclusion:
+
+
+   The Number Guessing Game project has been a successful implementation of a simple yet engaging game using Python.
+   Through this project, we have demonstrated the use of basic programming concepts such as variables, data types, loops, and conditional statements.
+   The game has been designed to generate a random number within a specified range, and the player has to guess the number within a limited number of attempts. 
+   The game provides feedback to the player after each guess, indicating whether the guess is higher or lower than the actual number.
+
+
+ # Created By:
+
+  NISHA PRASAD
+
+  (Data Analyst)
+
+
 
    
 
