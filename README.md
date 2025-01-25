@@ -35,6 +35,10 @@ Step 5: Repeat Gameplay:
 Step 6: Game Over:
           When the user chooses to stop playing, end the game and thank the user.
 
+
+   ![image](https://github.com/user-attachments/assets/b3affcdb-28a6-4d05-840c-8aca6155fa50)
+
+
    
 
 
