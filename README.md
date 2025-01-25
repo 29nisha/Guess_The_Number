@@ -36,46 +36,8 @@ Step 6: Game Over:
           When the user chooses to stop playing, end the game and thank the user.
 
 
-   import random
-num=random.randint(0,50)
-print("you have 5 chance to guess the number")
-chance=0
-while True:
-if (chance==5):
-print("You Lost The Game")
-else:
-user=int(input("Guess The Number Between 0 to 50:"))
-if (user<num):
-print("Try Agin!","Your Guess Was Too High")
-chance+=1
-if (user>num):
-print("Try Agin","Your Guess Was Too Small")
-chance+=1
-if(user==num):
-print("Congratulations","you guessed the number")
-chance+=1
-if (user!=num):
-print("Try Agin")
-if(chance==5):
-print('Better Luck Next Time')
-break
-you have 5 chance to guess the number
-Guess The Number Between 0 to 50:45
-Try Agin Your Guess Was Too Small
-Try Agin
-Guess The Number Between 0 to 50:34
-Try Agin! Your Guess Was Too High
-Try Agin
-Guess The Number Between 0 to 50:25
-Try Agin! Your Guess Was Too High
-Try Agin
-Guess The Number Between 0 to 50:54
-Try Agin Your Guess Was Too Small
-Try Agin
-Guess The Number Between 0 to 50:23
-Try Agin! Your Guess Was Too High
-Try Agin
-Better Luck Next Tim
+   ![image](https://github.com/user-attachments/assets/3f80a324-56ea-4c78-84f5-2ed4f46a6afd)
+
 
 
    
